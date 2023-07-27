@@ -1,0 +1,22 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul { 
+    display: flex;
+    list-style: none;
+    gap: 25px;
+}
+
+.contenedor-gatitos { 
+    width: 200px;
+    overflow: hidden;
+}
+
+img { 
+    width: 200px;
+    height: 200px;
+    object-fit: contain;  
+}
